@@ -123,7 +123,7 @@ const styles = StyleSheet.create({
   },
   carPrice: {
     fontSize: 16,
-    color: '#8B0000', // Vermelho escuro
+    color: '#8B0000',
     marginTop: 10,
   },
   button: {
